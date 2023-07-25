@@ -17,7 +17,7 @@
 |e.g : tables    | e.g  : xml      | e.g : photos      |
 
 
-``` 
+```python
 print ("DS Bootcamp")
 ```
 
